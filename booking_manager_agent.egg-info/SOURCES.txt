@@ -1,0 +1,6 @@
+setup.py
+booking_manager_agent.egg-info/PKG-INFO
+booking_manager_agent.egg-info/SOURCES.txt
+booking_manager_agent.egg-info/dependency_links.txt
+booking_manager_agent.egg-info/requires.txt
+booking_manager_agent.egg-info/top_level.txt

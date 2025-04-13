@@ -1,0 +1,11 @@
+fastapi
+pydantic
+streamlit
+requests
+pandas
+langchain-core
+langchain-openai
+langgraph
+python-dotenv
+typing-extensions
+-e .
